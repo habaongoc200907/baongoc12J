@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <body>
+    <h2>THỜI KHOÁ BIỂU</h2>
+    <table border='1'>
+      <tr>
+        <th>Thứ 2 </th>
+        <th>Thứ 3</th>
+        <th>Thứ 4</th>
+        <th>Thứ 5</th>
+        <th>Thứ 6</th>
+        <th>Thứ 7</th>
+        <th>Chủ Nhật</th>
+      </tr>
+      <tr>
+        <td>Hoá</td>
+        <td>HDTN</td>
+        <td>HDTN</td>
+        <td>Toán</td>
+        <td>Sử</td>
+        <td>Văn</td>
+      </tr>
+    </table>
+</body>
+
+</html>
