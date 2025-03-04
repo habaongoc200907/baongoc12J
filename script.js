@@ -1,7 +1,7 @@
 function login()
 {
   let u = username.value
-  let p = password.value
+  let p = pw.value
   if(u == "baongoc" && p == "200907")
   {
     window.open("home.html")
