@@ -1,6 +1,6 @@
 html {
   height: 100%;
-  width: 120%;
+  width: 100%;
 }
 .phandau {
   color: white; 
@@ -9,24 +9,29 @@ html {
   padding: 30px;
   font-size: 30px; 
 }
+.giua{
+  display:inline-block ;
+  height: 70%
+}
 .trinhdon {
+  display: flex;
   background-color: pink; 
   padding: 20px; 
-  display: inline-block;
-  width: 100%;
-  height: 120%;
+ 
 }
 .hello { 
   color: red;
-  text-align: left;
+  background:orange;
   font-size: 30px;
-  width: 100%;
-  height: 120%;
+  text-decoration: none;
+  padding: 5px 10px; 
 }
-.nd {
-  color: black
+ 
+.noidung {
+  color: black;
   background-color: pink;
-  font-size: 15px;
-  width: 100%;
-  height: 120%;
+  height: 500px;
+}
+iframe{
+ height: 100%;  
 }
