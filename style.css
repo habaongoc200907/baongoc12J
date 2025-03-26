@@ -13,6 +13,8 @@ html {
   background-color: pink; 
   padding: 20px; 
   display: inline-block;
+  width: 100%;
+  height: 120%;
 }
 .hello { 
   color: red;
@@ -25,4 +27,6 @@ html {
   color: black
   background-color: pink;
   font-size: 15px;
+  width: 100%;
+  height: 120%;
 }
