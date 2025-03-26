@@ -12,8 +12,8 @@ html {
 .trinhdon {
   background-color: red; 
   padding: 10px; 
-  width: 100%
-  height: 120%
+  width: 100%;
+  height: 500px;
 }
 .hello { 
   color: red;
