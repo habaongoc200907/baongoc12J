@@ -21,7 +21,7 @@ html {
 }
 .hello { 
   color: red;
-  background:orange;
+  background: orange;
   font-size: 30px;
   text-decoration: none;
   padding: 5px 10px; 
@@ -30,7 +30,7 @@ html {
 .noidung {
   color: black;
   background-color: pink;
-  height: 500px;
+  height: 300px;
 }
 iframe{
  height: 100%;  
