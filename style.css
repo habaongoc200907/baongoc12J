@@ -6,14 +6,23 @@ html {
   color: white; 
   background-color: pink; 
   text-align: center; 
-  padding: 15px; 
+  padding: 15px
+  font-size: 30px; 
 }
 .thucdon {
   background-color: red; 
   padding: 10px; 
+  width: 100%
+  height: 120%
 }
 .hello { 
   color: red;
   background:orange;
   text-align: left;
+  font-size: 15px;
+}
+.noidung {
+  color:pink
+  background-color: black;
+  font-size: 15px;
 }
