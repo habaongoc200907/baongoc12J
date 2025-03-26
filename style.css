@@ -8,5 +8,8 @@ html {
   text-align: center; 
   padding: 15px; 
 }
-.thucdon {background-color: #222; padding: 4px; }
+.thucdon {
+  background-color: red; 
+  padding: 10px; 
+}
 .thucdon a {color: red; }
