@@ -1,8 +1,11 @@
 html 
 {
   height: 100%;
-  width: 100%;
-}
+  width: 100%;}
+      phandau{ color:red; background-color:#f3f3f3;padding:20px;}
+      trinhdon{color: yellow; background-color:#f2f2f2;padding:20px;}
+      noidung{color: pink;background-color:#f1f1f1;}
+
 h2 { color:pink; font-family:verdana;}
 h3 { color:yellow; font-family:verdana;}
 label { font-size: 10px;font-weight:bold;}
