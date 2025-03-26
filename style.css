@@ -15,13 +15,12 @@ html {
 }
 .trinhdon {
   display: flex;
-  background-color: pink; 
+  background-color: yellow; 
   padding: 20px; 
  
 }
 .hello { 
   color: red;
-  background:orange;
   font-size: 30px;
   text-decoration: none;
   padding: 5px 10px; 
@@ -29,7 +28,6 @@ html {
  
 .noidung {
   color: black;
-  background-color: pink;
   height: 500px;
 }
 iframe{
