@@ -10,10 +10,10 @@ html {
   font-size: 30px; 
 }
 .trinhdon {
-  background-color: red; 
+  background-color: pink; 
   padding: 10px; 
   width: 100%;
-  height: 500px;
+  height: 120%;
 }
 .hello { 
   color: red;
