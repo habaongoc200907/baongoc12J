@@ -37,6 +37,7 @@ iframe{
 }
 .phancuoi {
   color: red;
-  text-aligin: center;
+  text-align: center;
   font-size: 50px;
+  background-color: orange;
 }
